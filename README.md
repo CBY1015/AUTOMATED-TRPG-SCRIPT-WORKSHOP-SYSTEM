@@ -1,11 +1,5 @@
 # AUTOMATED-TRPG-SCRIPT-WORKSHOP-SYSTEM
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge\&logo=python](https://www.google.com/search?q=https://img.shields.io/badge/Python-3.8%2B-blue%3Fstyle%3Dfor-the-badge%26logo%3Dpython)" alt="Python Version"\>
-\<img src="[https://img.shields.io/badge/License-MIT-green?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-green%3Fstyle%3Dfor-the-badge)" alt="License"\>
-\<img src="[https://img.shields.io/badge/Made%20with-Hugging%20Face-yellow?style=for-the-badge\&logo=huggingface](https://www.google.com/search?q=https://img.shields.io/badge/Made%2520with-Hugging%2520Face-yellow%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface)" alt="Hugging Face"\>
-\</p\>
-
 An automated AI-powered scriptwriting workshop that generates full-length TRPG-style scripts. The system features a multi-agent framework where different AI models (Writer, Game Master, Actors, Director) collaborate and iterate on a story in real time.
 
 這是一個創新的自動化劇本創作系統，它利用多個 AI 代理人（agent）協作，從零開始共同生成一個完整的 TRPG（桌上角色扮演遊戲）風格劇本。專案的核心思想是模擬一個真實的劇本工作坊，讓不同的 AI 角色分工合作，彼此激發創意，最終產出連貫且充滿戲劇張力的故事。
